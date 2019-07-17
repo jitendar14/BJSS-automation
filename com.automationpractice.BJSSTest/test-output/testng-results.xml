@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11638" started-at="2019-07-17T21:45:18Z" finished-at="2019-07-17T21:45:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11638" started-at="2019-07-17T21:45:18Z" finished-at="2019-07-17T21:45:30Z">
+      <class name="com.automationpractice.Testcases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.automationpractice.Testcases.HomePageTest@47c62251]" name="setup" is-config="true" duration-ms="7576" started-at="2019-07-17T21:45:18Z" finished-at="2019-07-17T21:45:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="hometest()[pri:0, instance:com.automationpractice.Testcases.HomePageTest@47c62251]" name="hometest" duration-ms="3292" started-at="2019-07-17T21:45:26Z" finished-at="2019-07-17T21:45:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hometest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automationpractice.Testcases.HomePageTest@47c62251]" name="tearDown" is-config="true" duration-ms="746" started-at="2019-07-17T21:45:29Z" finished-at="2019-07-17T21:45:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationpractice.Testcases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
